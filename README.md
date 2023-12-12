@@ -1,0 +1,2 @@
+# power transformer-vision based fault detection UI
+ Empower your electrical infrastructure with our Power Transformer Vision-Based Fault Detection solution. Harnessing the strength of Python, our user-friendly interface provides real-time monitoring and rapid identification of faults, ensuring the reliability and efficiency of power transformers. Elevate your system's resilience with cutting-edge technology and intuitive control
